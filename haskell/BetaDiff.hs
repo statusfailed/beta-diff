@@ -1,4 +1,4 @@
-module Beta (betaDiff) where
+module BetaDiff (betaDiff) where
 
 import Numeric.SpecFunctions (logBeta)
 
