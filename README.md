@@ -20,5 +20,5 @@ import BetaDiff
 -- | Print P(X > Y), where
 --  X ~ Beta(1, 3)
 --  Y ~ Beta(2, 2)
-main = print betaDiff 1 3 2 2
+main = print $ betaDiff 1 3 2 2
 ~~~~
