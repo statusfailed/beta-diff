@@ -1,7 +1,9 @@
 # Computing exact difference in beta distributions
 
 This repo is a ported implementation of the C code in
-[this repository](https://github.com/EmanueleRaineri/methyl_diff)
+[this repository](https://github.com/EmanueleRaineri/methyl_diff),
+from
+[this paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0097349)
 
 The code in question computes P(θ1 > θ2), where θ1 and θ2 are
 probabilities drawn from two beta distributions with parameters
